@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![](https://github.com/padath314/SUS.png)
+![](https://github.com/padath314/padath314/blob/main/SUS.png)
 
 Hi there! I'm Susan, a Computer Science and Engineering (CSE) student at IIT Palakkad. Welcome to my GitHub profile, where I combine my passion for technology with my love for art and design.
 
