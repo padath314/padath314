@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://example.com/profile-banner.png)
+![](https://github.com/padath314/SUS.png)
 
 Hi there! I'm Susan, a Computer Science and Engineering (CSE) student at IIT Palakkad. Welcome to my GitHub profile, where I combine my passion for technology with my love for art and design.
 
@@ -35,9 +35,9 @@ Hi there! I'm Susan, a Computer Science and Engineering (CSE) student at IIT Pal
 
 ## Find Me Online
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/susan-varghese-padath)
-- Portfolio: [Your Portfolio Website](https://padath314.github.io/)
-- Email: [susanvarghesepadath@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/susan-varghese-padath)
+- [Portfolio](https://padath314.github.io/)
+- [Email](susanvarghesepadath@gmail.com)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect. I'm always excited to meet fellow tech enthusiasts and creative minds!
 
