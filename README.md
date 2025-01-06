@@ -6,7 +6,7 @@ Hi there! I'm Susan, a Computer Science and Engineering (CSE) student at IIT Pal
 
 ## About Me
 
-- 🎓 Studying CSE at IIT Palakkad.
+- 🎓 Graduated in CSE from IIT Palakkad.
 - 🎨 An artist at heart with a keen interest in design.
 - 💻 Aiming to merge creativity and technology to build innovative solutions.
 - 🌱 Constantly learning and exploring new technologies and frameworks.
