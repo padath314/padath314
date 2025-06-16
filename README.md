@@ -2,10 +2,11 @@
 
 ![](https://github.com/padath314/padath314/blob/main/SUS.png)
 
-Hi there! I'm Susan, a Computer Science and Engineering (CSE) student at IIT Palakkad. Welcome to my GitHub profile, where I combine my passion for technology with my love for art and design.
+Hi there! I'm Susan, a Computer Science and Engineering graduate with honors from IIT Palakkad, currently working as a Product Engineering Analyst at Accenture Japan. Welcome to my GitHub profile, where I blend my passion for technology with a love for art and design.
 
 ## About Me
 
+- 💼 Working as a Product Engineering Analyst at Accenture Japan
 - 🎓 Graduated in CSE from IIT Palakkad.
 - 🎨 An artist at heart with a keen interest in design.
 - 💻 Aiming to merge creativity and technology to build innovative solutions.
